@@ -13,6 +13,7 @@
   "lede": "",
   "steps": [
     "page.application-details",
+    "page.check-answers",
     "page.application-sent"
   ],
   "url": "/"
