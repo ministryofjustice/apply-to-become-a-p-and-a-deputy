@@ -1,7 +1,7 @@
 {
   "_id": "page.application-sent",
   "_type": "page.confirmation",
-  "body": "We have sent you a confirmation email.\r\n\r\nUse the name of the person you're applying to be a deputy for as your reference.",
+  "body": "We have sent you a confirmation email.\r\n\r\nUse the name of the person you're applying to be a deputy for as your reference.\r\n\r\n### What happens next\r\n\r\nWe've sent your application to the [Court of Protection](https://www.gov.uk/courts-tribunals/court-of-protection).\r\n\r\nThey will contact you to confirm that your application is being considered and to tell you what to do next.",
   "heading": "Application sent",
   "url": "application-sent"
 }
