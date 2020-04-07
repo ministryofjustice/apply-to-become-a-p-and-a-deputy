@@ -35,31 +35,33 @@
       "name": "pba-number"
     },
     {
-      "_id": "page.application-details--fileupload.auto_name__4",
-      "_type": "fileupload",
+      "_id": "page.application-details--upload.auto_name__1",
+      "_type": "upload",
       "label": "Application (COP1)",
-      "name": "cop1"
+      "name": "auto_name__1"
     },
     {
-      "_id": "page.application-details--fileupload.auto_name__5",
-      "_type": "fileupload",
+      "_id": "page.application-details--upload.auto_name__2",
+      "_type": "upload",
       "label": "Supporting information (COP1A)",
-      "name": "cop1a"
+      "name": "auto_name__2"
     },
     {
-      "_id": "page.application-details--fileupload.auto_name__6",
-      "_type": "fileupload",
+      "_id": "page.application-details--upload.auto_name__3",
+      "_type": "upload",
       "label": "Assessment of capacity (COP3)",
-      "name": "cop3"
+      "name": "auto_name__3"
     },
     {
-      "_id": "page.application-details--fileupload.auto_name__7",
-      "_type": "fileupload",
+      "_id": "page.application-details--upload.auto_name__4",
+      "_type": "upload",
       "label": "Deputy's declaration (COP4)",
-      "name": "cop4"
+      "name": "auto_name__4"
     }
   ],
   "heading": "Apply to become a property and financial affairs deputy",
-  "steps": [],
+  "steps": [
+    "page.application-details-check"
+  ],
   "url": "application-details"
 }
