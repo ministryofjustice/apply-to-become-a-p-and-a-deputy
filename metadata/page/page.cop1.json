@@ -1,0 +1,16 @@
+{
+  "_id": "page.cop1",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.cop1--upload.auto_name__1",
+      "_type": "upload",
+      "label": "Upload your completed COP1 form",
+      "name": "cop-1-upload"
+    }
+  ],
+  "steps": [
+    "page.cop1-check"
+  ],
+  "url": "cop1"
+}

@@ -3,65 +3,26 @@
   "_type": "page.form",
   "components": [
     {
-      "$component": true,
-      "$control": true,
-      "$definition": true,
-      "$field": true,
       "_id": "page.application-details--text.auto_name__1",
       "_type": "text",
-      "hint": "The person who can't make decisions at the time they need to be made (they 'lack mental capacity'). ",
+      "hint": "The person who can't make decisions at the time they need to be made (they 'lack mental capacity').",
       "label": "Full name of the person you're applying to be a deputy for",
-      "name": "full-name"
+      "name": "person-full-name"
     },
     {
-      "$component": true,
-      "$control": true,
-      "$definition": true,
-      "$field": true,
       "_id": "page.application-details--email.auto_name__2",
       "_type": "email",
       "hint": "So we can send you a confirmation email.",
       "label": "Your email address",
-      "name": "your-email"
+      "name": "email"
     },
     {
-      "$component": true,
-      "$control": true,
-      "$definition": true,
-      "$field": true,
       "_id": "page.application-details--number.auto_name__3",
       "_type": "number",
       "label": "Payment By Account (PBA) number",
       "name": "pba-number"
-    },
-    {
-      "_id": "page.application-details--upload.auto_name__1",
-      "_type": "upload",
-      "label": "Application (COP1)",
-      "name": "auto_name__1"
-    },
-    {
-      "_id": "page.application-details--upload.auto_name__2",
-      "_type": "upload",
-      "label": "Supporting information (COP1A)",
-      "name": "auto_name__2"
-    },
-    {
-      "_id": "page.application-details--upload.auto_name__3",
-      "_type": "upload",
-      "label": "Assessment of capacity (COP3)",
-      "name": "auto_name__3"
-    },
-    {
-      "_id": "page.application-details--upload.auto_name__4",
-      "_type": "upload",
-      "label": "Deputy's declaration (COP4)",
-      "name": "auto_name__4"
     }
   ],
   "heading": "Apply to become a property and financial affairs deputy",
-  "steps": [
-    "page.application-details-check"
-  ],
   "url": "application-details"
 }
