@@ -11,7 +11,7 @@
       "_type": "text",
       "hint": "The person who can't make decisions at the time they need to be made (they 'lack mental capacity'). ",
       "label": "Full name of the person you're applying to be a deputy for",
-      "name": "auto_name__1"
+      "name": "full-name"
     },
     {
       "$component": true,
@@ -22,7 +22,7 @@
       "_type": "email",
       "hint": "So we can send you a confirmation email.",
       "label": "Your email address",
-      "name": "auto_name__2"
+      "name": "your-email"
     },
     {
       "$component": true,
@@ -32,31 +32,31 @@
       "_id": "page.application-details--number.auto_name__3",
       "_type": "number",
       "label": "Payment By Account (PBA) number",
-      "name": "auto_name__3"
+      "name": "pba-number"
     },
     {
       "_id": "page.application-details--fileupload.auto_name__4",
       "_type": "fileupload",
       "label": "Application (COP1)",
-      "name": "auto_name__4"
+      "name": "cop1"
     },
     {
       "_id": "page.application-details--fileupload.auto_name__5",
       "_type": "fileupload",
       "label": "Supporting information (COP1A)",
-      "name": "auto_name__5"
+      "name": "cop1a"
     },
     {
       "_id": "page.application-details--fileupload.auto_name__6",
       "_type": "fileupload",
       "label": "Assessment of capacity (COP3)",
-      "name": "auto_name__6"
+      "name": "cop3"
     },
     {
       "_id": "page.application-details--fileupload.auto_name__7",
       "_type": "fileupload",
       "label": "Deputy's declaration (COP4)",
-      "name": "auto_name__7"
+      "name": "cop4"
     }
   ],
   "heading": "Apply to become a property and financial affairs deputy",
