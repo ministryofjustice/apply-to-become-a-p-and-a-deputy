@@ -1,0 +1,7 @@
+{
+  "_id": "page.application-sent",
+  "_type": "page.confirmation",
+  "body": "We have sent you a confirmation email.\r\n\r\nUse the name of the person you're applying to be a deputy for as your reference.",
+  "heading": "Application sent",
+  "url": "application-sent"
+}

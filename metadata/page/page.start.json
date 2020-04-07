@@ -12,7 +12,8 @@
   "heading": "Apply to become a property and financial affairs deputy",
   "lede": "",
   "steps": [
-    "page.application-details"
+    "page.application-details",
+    "page.application-sent"
   ],
   "url": "/"
 }
