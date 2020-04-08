@@ -14,6 +14,9 @@
   "steps": [
     "page.application-details",
     "page.cop1",
+    "page.upload-cop1a",
+    "page.upload-cop3",
+    "page.upload-cop4",
     "page.check-answers",
     "page.application-sent"
   ],

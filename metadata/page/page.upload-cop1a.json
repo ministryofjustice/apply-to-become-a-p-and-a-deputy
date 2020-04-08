@@ -1,0 +1,16 @@
+{
+  "_id": "page.upload-cop1a",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.upload-cop1a--upload.auto_name__1",
+      "_type": "upload",
+      "label": "Upload your COP1A form",
+      "name": "cop1a"
+    }
+  ],
+  "steps": [
+    "page.upload-cop1a-check"
+  ],
+  "url": "upload-cop1a"
+}

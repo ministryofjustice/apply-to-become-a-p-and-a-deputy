@@ -1,0 +1,16 @@
+{
+  "_id": "page.upload-cop3",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.upload-cop3--upload.auto_name__1",
+      "_type": "upload",
+      "label": "Upload your COP3 form",
+      "name": "auto_name__1"
+    }
+  ],
+  "steps": [
+    "page.upload-cop3-check"
+  ],
+  "url": "upload-cop3"
+}
