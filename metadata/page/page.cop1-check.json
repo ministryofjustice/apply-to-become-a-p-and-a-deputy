@@ -1,5 +1,6 @@
 {
   "_id": "page.cop1-check",
   "_type": "page.uploadCheck",
+  "heading": "Check your upload",
   "url": "cop1-check"
 }
