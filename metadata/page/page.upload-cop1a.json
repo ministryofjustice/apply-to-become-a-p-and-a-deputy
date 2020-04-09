@@ -6,7 +6,7 @@
       "_id": "page.upload-cop1a--upload.auto_name__1",
       "_type": "upload",
       "label": "Upload your completed COP1A form",
-      "name": "cop1a"
+      "name": "upload-cop1a"
     }
   ],
   "steps": [
