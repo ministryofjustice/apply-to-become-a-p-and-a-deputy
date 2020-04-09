@@ -19,7 +19,7 @@
           "value": "witness_statement_no"
         }
       ],
-      "legend": "Do you need to include a witness statement form?",
+      "legend": "Do you need to include a witness statement?",
       "name": "auto_name__3"
     }
   ],

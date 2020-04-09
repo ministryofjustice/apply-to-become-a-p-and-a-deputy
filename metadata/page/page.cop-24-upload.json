@@ -1,0 +1,16 @@
+{
+  "_id": "page.cop-24-upload",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.cop-24-upload--upload.auto_name__4",
+      "_type": "upload",
+      "label": "Upload your completed COP24 form",
+      "name": "upload-cop-24"
+    }
+  ],
+  "steps": [
+    "page.cop-24-upload-check"
+  ],
+  "url": "cop-24-upload"
+}

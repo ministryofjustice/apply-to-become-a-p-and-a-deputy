@@ -6,7 +6,7 @@
       "_id": "page.upload-cop3--upload.auto_name__1",
       "_type": "upload",
       "label": "Upload your completed COP3 form",
-      "name": "auto_name__1"
+      "name": "upload-cop3"
     }
   ],
   "steps": [
