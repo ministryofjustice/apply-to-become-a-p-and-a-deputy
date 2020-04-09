@@ -5,7 +5,7 @@
     {
       "_id": "page.upload-cop3--upload.auto_name__1",
       "_type": "upload",
-      "label": "Upload your COP3 Assessment of capacity form",
+      "label": "Upload your completed assessment of capacity (COP3)",
       "name": "upload-cop3"
     }
   ],

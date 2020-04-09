@@ -5,7 +5,7 @@
     {
       "_id": "page.cop-24-upload--upload.auto_name__4",
       "_type": "upload",
-      "label": "Upload your COP24 Witness Statement form",
+      "label": "Upload your witness statement (COP24)",
       "name": "upload-cop-24"
     }
   ],
