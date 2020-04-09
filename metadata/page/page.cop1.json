@@ -5,7 +5,7 @@
     {
       "_id": "page.cop1--upload.auto_name__1",
       "_type": "upload",
-      "label": "Upload your completed COP1 form",
+      "label": "Upload your COP1 application form",
       "name": "upload-cop1"
     }
   ],

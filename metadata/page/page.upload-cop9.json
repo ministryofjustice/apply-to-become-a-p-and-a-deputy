@@ -5,7 +5,7 @@
     {
       "_id": "page.upload-cop9--upload.auto_name__3",
       "_type": "upload",
-      "label": "Upload your completed COP9 form",
+      "label": "Upload your COP9 Application notice form",
       "name": "upload-cop9"
     }
   ],

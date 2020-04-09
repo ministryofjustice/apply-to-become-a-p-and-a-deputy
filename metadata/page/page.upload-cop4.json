@@ -5,7 +5,7 @@
     {
       "_id": "page.upload-cop4--upload.auto_name__2",
       "_type": "upload",
-      "label": "Upload your completed COP4 form",
+      "label": "Upload your COP4 Deputy's declaration form",
       "name": "upload-cop4"
     }
   ],
