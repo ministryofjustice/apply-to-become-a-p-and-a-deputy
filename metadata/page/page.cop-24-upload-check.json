@@ -2,5 +2,5 @@
   "_id": "page.cop-24-upload-check",
   "_type": "page.uploadCheck",
   "heading": "Check your upload",
-  "url": "cop-24-upload-check"
+  "url": "/check-cop-24-upload"
 }
