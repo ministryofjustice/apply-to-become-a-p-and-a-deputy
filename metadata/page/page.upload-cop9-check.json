@@ -1,6 +1,6 @@
 {
   "_id": "page.upload-cop9-check",
   "_type": "page.uploadCheck",
-  "heading": "Check your application notice upload (COP9)",
+  "heading": "Check your COP9 upload",
   "url": "/check-cop9-upload"
 }

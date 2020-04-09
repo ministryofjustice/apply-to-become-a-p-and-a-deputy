@@ -1,6 +1,6 @@
 {
   "_id": "page.upload-cop1a-check",
   "_type": "page.uploadCheck",
-  "heading": "Check your supporting information upload (COP1A)",
+  "heading": "Check your COP1A upload",
   "url": "/check-cop1a-upload"
 }

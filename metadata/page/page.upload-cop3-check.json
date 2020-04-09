@@ -1,6 +1,6 @@
 {
   "_id": "page.upload-cop3-check",
   "_type": "page.uploadCheck",
-  "heading": "Check your assessment of capacity upload (COP3)",
+  "heading": "Check your COP3 upload",
   "url": "/check-cop3-upload"
 }

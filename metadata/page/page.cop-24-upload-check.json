@@ -1,6 +1,6 @@
 {
   "_id": "page.cop-24-upload-check",
   "_type": "page.uploadCheck",
-  "heading": "Check your witness statement upload (COP24)",
+  "heading": "Check your COP24 upload",
   "url": "/check-cop-24-upload"
 }

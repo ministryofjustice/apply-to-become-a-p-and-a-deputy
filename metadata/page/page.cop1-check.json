@@ -1,6 +1,6 @@
 {
   "_id": "page.cop1-check",
   "_type": "page.uploadCheck",
-  "heading": "Check your application upload (COP1)",
+  "heading": "Check your COP1 upload",
   "url": "/check-cop1-upload"
 }
