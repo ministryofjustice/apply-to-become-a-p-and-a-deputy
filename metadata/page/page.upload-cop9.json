@@ -9,6 +9,11 @@
       "name": "upload-cop9"
     }
   ],
+  "show": {
+    "identifier": "urgent-interim-order",
+    "operator": "is",
+    "value": "urgent_yes"
+  },
   "steps": [
     "page.upload-cop9-check"
   ],

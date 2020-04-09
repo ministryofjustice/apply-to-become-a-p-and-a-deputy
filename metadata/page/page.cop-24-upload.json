@@ -9,6 +9,11 @@
       "name": "upload-cop-24"
     }
   ],
+  "show": {
+    "identifier": "witness-statement",
+    "operator": "is",
+    "value": "witness_statement_yes"
+  },
   "steps": [
     "page.cop-24-upload-check"
   ],
