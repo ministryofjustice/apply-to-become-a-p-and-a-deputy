@@ -1,6 +1,6 @@
 {
   "_id": "page.upload-cop4-check",
   "_type": "page.uploadCheck",
-  "heading": "Check your upload",
+  "heading": "Check your deputy's declaration upload (COP4)",
   "url": "/check-cop4-upload"
 }
