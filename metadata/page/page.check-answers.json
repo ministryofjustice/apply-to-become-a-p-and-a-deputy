@@ -1,5 +1,20 @@
 {
   "_id": "page.check-answers",
   "_type": "page.summary",
+  "show": {
+    "conditionsType": "exactly",
+    "exactly": [
+      {
+        "identifier": "witness-statement",
+        "operator": "is",
+        "value": "witness_statement_no"
+      },
+      {
+        "identifier": "witness-statement",
+        "operator": "is",
+        "value": "witness_statement_yes"
+      }
+    ]
+  },
   "url": "check-answers"
 }
