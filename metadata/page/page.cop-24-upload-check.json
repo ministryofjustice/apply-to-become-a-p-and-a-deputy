@@ -2,5 +2,6 @@
   "_id": "page.cop-24-upload-check",
   "_type": "page.uploadCheck",
   "heading": "Check your COP24 upload",
+  "nextpage": "/check-answers",
   "url": "/check-cop-24-upload"
 }

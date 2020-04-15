@@ -2,5 +2,6 @@
   "_id": "page.upload-cop9-check",
   "_type": "page.uploadCheck",
   "heading": "Check your COP9 upload",
+  "nextpage": "/witness-statement",
   "url": "/check-cop9-upload"
 }
