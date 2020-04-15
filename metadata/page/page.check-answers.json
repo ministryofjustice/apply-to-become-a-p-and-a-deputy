@@ -1,9 +1,6 @@
 {
   "_id": "page.check-answers",
   "_type": "page.summary",
-  "show": {
-    "identifier": "witness-statement",
-    "operator": "defined"
-  },
+  "show": true,
   "url": "check-answers"
 }
