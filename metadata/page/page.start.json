@@ -13,6 +13,7 @@
   "lede": "",
   "steps": [
     "page.person-details--2",
+    "page.email-address",
     "page.cop1",
     "page.upload-cop1a",
     "page.upload-cop3",
