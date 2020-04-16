@@ -6,5 +6,5 @@
     "operator": "is",
     "value": "yes"
   },
-  "url": "upload-check"
+  "url": "/check-upload"
 }
