@@ -1,7 +1,7 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "Use this service to send an application to become a property and financial affairs deputy to the Court of Protection. \r\n\r\nYou can only use this service if you have a Payment By Account (PBA) number to pay for the application.\r\n\r\nIf you don't have a PBA account, you can [apply for one](https://www.gov.uk/government/publications/form-fee-account-application-form-fee-account-customer-application-form).\r\n\r\nYou can also apply by post.\r\n\r\nThe application fee is £365.",
+  "body": "Use this service to send a completed application to become a property and financial affairs deputy to the Court of Protection. \r\n\r\nYou can only use this service if you have a Payment By Account (PBA) number to pay for the application.\r\n\r\nIf you don't have a PBA account, you can [apply for one](https://www.gov.uk/government/publications/form-fee-account-application-form-fee-account-customer-application-form).\r\n\r\nYou can also apply by post.\r\n\r\nThe application fee is £365.",
   "extraComponents": [
     {
       "_id": "page.start--content",
@@ -9,7 +9,7 @@
       "html": "### Before you start\r\n\r\nYou should read the guidance on how to [apply to become a court-appointed deputy](https://www.gov.uk/become-deputy/apply-deputy).\r\n\r\nYou also need to complete the following forms:\r\n\r\n* [Application (COP1)](https://www.gov.uk/government/publications/apply-to-make-decisions-on-someones-behalf-form-cop1)\r\n* [Supporting information (COP1A)](https://www.gov.uk/government/publications/apply-to-make-decisions-on-someones-behalf-property-and-finance-form-cop1a)\r\n* [Assessment of capacity (COP3)](https://www.gov.uk/government/publications/make-a-report-on-someones-capacity-to-make-decisions-form-cop3)\r\n* [Deputy's declaration (COP4)](https://www.gov.uk/government/publications/apply-to-become-someones-deputy-make-a-declaration-form-cop4)\r\n\r\nYou can type your signature on these forms instead of writing it by hand."
     }
   ],
-  "heading": "Apply to become a property and financial affairs deputy",
+  "heading": "Send a completed property and financial affairs application to the Court of Protection",
   "lede": "",
   "steps": [
     "page.person-details--2",

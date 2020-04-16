@@ -2,7 +2,7 @@
   "_id": "service",
   "_isa": "@ministryofjustice/fb-components=>service",
   "_type": "config.service",
-  "name": "Apply to become a property and financial affairs deputy",
+  "name": "Send a completed property and financial affairs application to the Court of Protection",
   "pdfHeading": "Apply to become a property and financial affairs deputy",
   "phase": "none"
 }
