@@ -3,7 +3,7 @@
   "_isa": "@ministryofjustice/fb-components=>service",
   "_type": "config.service",
   "attachUserSubmission": true,
-  "name": "Send a completed property and financial affairs application to the Court of Protection",
+  "name": "Send a completed p and a application to COP",
   "pdfHeading": "Apply to become a property and financial affairs deputy",
   "phase": "none"
 }
