@@ -1,5 +1,10 @@
 {
   "_id": "page.upload-check",
   "_type": "page.uploadCheck",
+  "show": {
+    "identifier": "has-application-documents",
+    "operator": "is",
+    "value": "yes"
+  },
   "url": "upload-check"
 }
