@@ -5,6 +5,11 @@
     {
       "_id": "page.upload-cop3--upload.auto_name__1",
       "_type": "upload",
+      "errors": {
+        "required": {
+          "any": "Select a document"
+        }
+      },
       "label": "Upload your completed assessment of capacity (COP3)",
       "name": "upload-cop3"
     }

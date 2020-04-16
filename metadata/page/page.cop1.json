@@ -5,6 +5,11 @@
     {
       "_id": "page.cop1--upload.auto_name__1",
       "_type": "upload",
+      "errors": {
+        "required": {
+          "any": "Select a document"
+        }
+      },
       "label": "Upload your completed application (COP1)",
       "name": "upload-cop1"
     }

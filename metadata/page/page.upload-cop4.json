@@ -5,6 +5,11 @@
     {
       "_id": "page.upload-cop4--upload.auto_name__2",
       "_type": "upload",
+      "errors": {
+        "required": {
+          "any": "Select a document"
+        }
+      },
       "label": "Upload your completed deputy’s declaration (COP4)",
       "name": "upload-cop4"
     }

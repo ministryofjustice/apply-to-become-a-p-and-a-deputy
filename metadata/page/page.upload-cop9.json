@@ -5,6 +5,11 @@
     {
       "_id": "page.upload-cop9--upload.auto_name__3",
       "_type": "upload",
+      "errors": {
+        "required": {
+          "any": "Select a document"
+        }
+      },
       "label": "Upload your application notice for an urgent interim order (COP9)",
       "name": "upload-cop9"
     }
