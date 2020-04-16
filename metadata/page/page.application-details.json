@@ -5,6 +5,11 @@
     {
       "_id": "page.application-details--text.auto_name__1",
       "_type": "text",
+      "errors": {
+        "required": {
+          "any": "Enter an answer for Full name"
+        }
+      },
       "hint": "The person who can't make decisions at the time they need to be made (they 'lack mental capacity').",
       "label": "Full name of the person you're applying to be a deputy for",
       "name": "person-full-name"
