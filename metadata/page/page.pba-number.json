@@ -5,7 +5,7 @@
     {
       "_id": "page.pba-number--text.auto_name__1",
       "_type": "text",
-      "hint": "For example,",
+      "hint": "For example, 12345678",
       "label": "Payment By Account (PBA) number",
       "name": "pba-number"
     }
