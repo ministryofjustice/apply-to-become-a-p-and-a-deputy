@@ -12,7 +12,6 @@
   "heading": "Apply to become a property and financial affairs deputy",
   "lede": "",
   "steps": [
-    "page.application-details",
     "page.cop1",
     "page.upload-cop1a",
     "page.upload-cop3",
@@ -22,7 +21,9 @@
     "page.witness-statement-form",
     "page.cop-24-upload",
     "page.check-answers",
-    "page.application-sent"
+    "page.application-sent",
+    "page.person-details",
+    "page.person-details--2"
   ],
   "url": "/"
 }
