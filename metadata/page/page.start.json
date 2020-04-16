@@ -1,7 +1,7 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "Use this service to upload and send an application to become a property and financial affairs deputy if you have a Payment By Account (PBA) number to pay for the application.\r\n\r\nIf you don't have a PBA number you can apply by post.\r\n\r\nSending an application takes around 5 minutes.",
+  "body": "Use this service to upload and send an application to become a property and financial affairs deputy if you have a Payment By Account (PBA) number to pay for the application.\r\n\r\nIf you don't have a PBA number, you can get one by [applying to use Fee Account](https://www.gov.uk/government/publications/form-fee-account-application-form-fee-account-customer-application-form).\r\n\r\nYou can also apply by post.\r\n\r\nSending an application takes around 5 minutes.",
   "extraComponents": [
     {
       "_id": "page.start--content",
