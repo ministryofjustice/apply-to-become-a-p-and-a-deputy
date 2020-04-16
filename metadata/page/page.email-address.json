@@ -5,6 +5,11 @@
     {
       "_id": "page.email-address--email.auto_name__1",
       "_type": "email",
+      "errors": {
+        "required": {
+          "any": "Enter an email address"
+        }
+      },
       "label": "Your email address",
       "name": "email-address"
     }
