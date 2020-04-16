@@ -5,6 +5,11 @@
     {
       "_id": "page.witness-statement-form--radios.auto_name__3",
       "_type": "radios",
+      "errors": {
+        "required": {
+          "any": "Select yes if you would like to send any other documents as part of your application"
+        }
+      },
       "items": [
         {
           "_id": "page.witness-statement-form--radios.auto_name__3--radio.auto_value__1",
