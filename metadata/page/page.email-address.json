@@ -10,6 +10,7 @@
           "any": "Enter an email address"
         }
       },
+      "hint": "We'll only use this to contact you about your application",
       "label": "Your email address",
       "name": "email-address"
     }
