@@ -10,6 +10,7 @@
           "any": "Select a document"
         }
       },
+      "hint": "You can upload your documents as scanned copies or photos of the originals",
       "label": "Upload your application notice for an urgent interim order (COP9)",
       "name": "upload-cop9"
     }
