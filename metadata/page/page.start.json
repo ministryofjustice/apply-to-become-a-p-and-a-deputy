@@ -1,7 +1,7 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "Use this form to send a completed application to become a property and financial affairs deputy to the Court of Protection.\r\n\r\nYou can only use this form if you have:\r\n\r\n* completed all the relevant application forms\r\n* a Payment By Account (PBA) number to pay for the application\r\n\r\nIf you don't have a PBA account, you can [apply for one](https://www.gov.uk/government/publications/form-fee-account-application-form-fee-account-customer-application-form).\r\n\r\nYou can also apply by post.\r\n\r\nThe application fee is £365.",
+  "body": "Use this form to send a completed application to become a property and financial affairs deputy to the Court of Protection.\r\n\r\nYou can only use this form if you have:\r\n\r\n* completed all the relevant application forms\r\n* a Payment By Account (PBA) number to pay for the application\r\n\r\nIf you need to complete the forms, read the guidance on [applying to be a deputy](https://www.gov.uk/become-deputy/apply-deputy).\r\n\r\nIf you don't have a PBA account, you can [apply for one](https://www.gov.uk/government/publications/form-fee-account-application-form-fee-account-customer-application-form).\r\n\r\nYou can also apply by post.\r\n\r\nThe application fee is £365.",
   "extraComponents": [
     {
       "_id": "page.start--content",
