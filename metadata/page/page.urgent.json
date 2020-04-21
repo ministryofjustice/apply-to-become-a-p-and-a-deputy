@@ -1,0 +1,27 @@
+{
+  "_id": "page.urgent",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.urgent--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.urgent--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "urgent_yes"
+        },
+        {
+          "_id": "page.urgent--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "No",
+          "value": "urgent_no"
+        }
+      ],
+      "legend": "Is your application urgent?",
+      "name": "urgent-application"
+    }
+  ],
+  "url": "urgent"
+}
