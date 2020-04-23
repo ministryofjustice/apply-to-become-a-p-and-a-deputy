@@ -7,6 +7,8 @@
       "_type": "upload",
       "hint": "You can upload your documents as scanned copies or photos of the originals",
       "label": "Upload documents",
+      "maxFiles": 10,
+      "minFiles": 1,
       "name": "upload"
     }
   ],
@@ -17,7 +19,7 @@
   },
   "steps": [
     "page.upload-check",
-    "page.document-upload-summary"
+    "page.upload-summary"
   ],
   "url": "upload"
 }
