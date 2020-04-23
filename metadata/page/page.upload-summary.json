@@ -1,5 +1,6 @@
 {
   "_id": "page.upload-summary",
   "_type": "page.uploadSummary",
-  "url": "upload-summary"
+  "heading": "Documents uploaded",
+  "url": "/upload-summary"
 }
