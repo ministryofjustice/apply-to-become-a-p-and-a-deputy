@@ -16,7 +16,8 @@
     "value": "yes"
   },
   "steps": [
-    "page.upload-check"
+    "page.upload-check",
+    "page.document-upload-summary"
   ],
   "url": "upload"
 }
