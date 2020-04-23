@@ -5,13 +5,10 @@
     {
       "_id": "page.upload--upload.auto_name__1",
       "_type": "upload",
-      "errors": {
-        "required": {
-          "any": "Select a document"
-        }
-      },
       "hint": "You can upload your documents as scanned copies or photos of the originals",
       "label": "Upload documents",
+      "maxFiles": 0,
+      "minFiles": 1,
       "name": "upload"
     }
   ],
@@ -20,8 +17,6 @@
     "operator": "is",
     "value": "yes"
   },
-  "steps": [
-    "page.upload-check"
-  ],
+  "steps": [],
   "url": "upload"
 }
