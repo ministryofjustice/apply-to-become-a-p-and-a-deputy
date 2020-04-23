@@ -19,7 +19,7 @@
   },
   "steps": [
     "page.upload-check",
-    "page.upload-summary"
+    "page.document-upload-summary"
   ],
   "url": "upload"
 }
