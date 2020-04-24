@@ -1,0 +1,17 @@
+{
+  "_id": "page.upload-cop-24",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.upload-cop-24--upload.auto_name__1",
+      "_type": "upload",
+      "hint": "You can upload your documents as scanned copies or photos of the originals",
+      "label": "Upload your witness statement (COP24)",
+      "name": "auto_name__1"
+    }
+  ],
+  "steps": [
+    "page.upload-cop-24-check"
+  ],
+  "url": "upload-cop-24"
+}
