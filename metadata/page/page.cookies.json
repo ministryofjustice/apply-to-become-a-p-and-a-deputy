@@ -53,7 +53,7 @@
             "html": "Saves your current progress in this computer and tracks inactivity periods"
           },
           {
-            "html": "After 30 minutes of inactivity or when you close your browser"
+            "html": "After 60 minutes of inactivity or when you close your browser"
           }
         ]
       ]
