@@ -10,6 +10,11 @@
       "name": "auto_name__1"
     }
   ],
+  "show": {
+    "identifier": "has-witness-statement",
+    "operator": "is",
+    "value": "yes"
+  },
   "steps": [
     "page.upload-cop-24-check"
   ],
