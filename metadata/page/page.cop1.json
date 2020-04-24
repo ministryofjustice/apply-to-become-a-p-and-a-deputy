@@ -10,7 +10,7 @@
           "any": "Select a document"
         }
       },
-      "hint": "You can upload your documents as scanned copies or photos of the originals. ",
+      "hint": "You can upload your documents as scanned copies or photos of the originals.",
       "label": "Upload your completed application (COP1)",
       "name": "upload-cop1"
     }
