@@ -24,9 +24,9 @@
           "value": "no"
         }
       ],
-      "legend": "Would you like to send any other documents as part of your application?",
-      "name": "has-application-documents"
+      "legend": "Do you want to include a COP24 witness statement?",
+      "name": "has-witness-statement"
     }
   ],
-  "url": "application-documents"
+  "url": "witness-statement"
 }
