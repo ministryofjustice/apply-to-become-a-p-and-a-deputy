@@ -5,6 +5,11 @@
     {
       "_id": "page.upload-cop-24--upload.auto_name__1",
       "_type": "upload",
+      "errors": {
+        "required": {
+          "any": "Select a document"
+        }
+      },
       "hint": "You can upload your documents as scanned copies or photos of the originals",
       "label": "Upload your completed witness statement (COP24)",
       "name": "auto_name__1"
