@@ -1,0 +1,7 @@
+{
+  "_id": "uploadCheck.radios.rejectUpload",
+  "_type": "string",
+  "description": "Reject the upload",
+  "title": "Reject the upload",
+  "value": "No, I want to choose {count, select, 1{a different document} other{different uploads}}"
+}
