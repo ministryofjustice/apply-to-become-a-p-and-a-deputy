@@ -3,6 +3,7 @@
   "_isa": "@ministryofjustice/fb-components=>service",
   "_type": "config.service",
   "attachUserSubmission": true,
+  "emailSubjectTeam": "Trial P&A Application",
   "name": "Apply to become a property and financial affairs deputy",
   "pdfHeading": "Apply to become a property and financial affairs deputy",
   "phase": "beta",
