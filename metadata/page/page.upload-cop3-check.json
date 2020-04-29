@@ -2,5 +2,5 @@
   "_id": "page.upload-cop3-check",
   "_type": "page.uploadCheck",
   "heading": "Check your completed assessment of capacity (COP3) upload",
-  "url": "/check-cop3-upload"
+  "url": "/check-cop3"
 }
