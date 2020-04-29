@@ -7,7 +7,7 @@
       "_type": "radios",
       "errors": {
         "required": {
-          "any": "Select yes if you want to include a COP9 application notice as part of your application"
+          "any": "Select yes if you want to include an application notice for an urgent interim order (COP9)"
         }
       },
       "items": [
