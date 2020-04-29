@@ -10,7 +10,7 @@
           "any": "Enter a Payment By Account (PBA) number"
         }
       },
-      "hint": "For example, PBA0088415",
+      "hint": "For example, PBA0123456",
       "label": "Payment By Account (PBA) number",
       "name": "pba-number"
     }
