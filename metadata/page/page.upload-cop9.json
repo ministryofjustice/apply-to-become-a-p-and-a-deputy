@@ -7,7 +7,7 @@
       "_type": "upload",
       "errors": {
         "required": {
-          "any": "Select a document"
+          "any": "Select your completed application notice for an urgent interim order (COP9)"
         }
       },
       "hint": "",

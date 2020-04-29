@@ -7,7 +7,7 @@
       "_type": "upload",
       "errors": {
         "required": {
-          "any": "Select a document"
+          "any": "Select your completed witness statement (COP24)"
         }
       },
       "hint": "",
