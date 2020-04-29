@@ -7,7 +7,7 @@
       "_type": "upload",
       "errors": {
         "required": {
-          "any": "Select your completed application form (COP1)"
+          "any": "Select your completed application (COP1)"
         }
       },
       "hint": "",

@@ -7,7 +7,7 @@
       "_type": "upload",
       "errors": {
         "required": {
-          "any": "Select your completed supporting information form (COP1A)"
+          "any": "Select your completed supporting information (COP1A)"
         }
       },
       "hint": "",

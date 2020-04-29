@@ -7,7 +7,7 @@
       "_type": "upload",
       "errors": {
         "required": {
-          "any": "Select your completed deputy’s declaration form (COP4)"
+          "any": "Select your completed deputy’s declaration (COP4)"
         }
       },
       "hint": "",

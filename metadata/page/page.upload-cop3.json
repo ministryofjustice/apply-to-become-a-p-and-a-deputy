@@ -7,7 +7,7 @@
       "_type": "upload",
       "errors": {
         "required": {
-          "any": "Select your completed assessment of capacity form (COP3)"
+          "any": "Select your completed assessment of capacity (COP3)"
         }
       },
       "hint": "",
