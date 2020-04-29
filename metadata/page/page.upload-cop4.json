@@ -10,7 +10,7 @@
           "any": "Select a document"
         }
       },
-      "hint": "You can upload your documents as scanned copies or photos of the originals",
+      "hint": "",
       "label": "Upload your completed deputy’s declaration (COP4)",
       "name": "upload-cop4"
     }
