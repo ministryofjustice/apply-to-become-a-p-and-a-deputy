@@ -7,7 +7,7 @@
       "_type": "radios",
       "errors": {
         "required": {
-          "any": "Select yes if you want to include a COP24 witness statement as part of your application"
+          "any": "Select yes if you want to include a witness statement (COP24)"
         }
       },
       "items": [
