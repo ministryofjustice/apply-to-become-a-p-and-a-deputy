@@ -24,7 +24,7 @@
           "value": "no"
         }
       ],
-      "legend": "Do you want to include a COP24 witness statement?",
+      "legend": "Do you want to include a witness statement (COP24)?",
       "name": "has-witness-statement"
     }
   ],
