@@ -11,7 +11,7 @@
         }
       },
       "label": "First name",
-      "name": "person-full-name"
+      "name": "first-name"
     },
     {
       "_id": "page.person-details--2--text.auto_name__2",
@@ -22,10 +22,10 @@
         }
       },
       "label": "Last name",
-      "name": "person-last-name"
+      "name": "last-name"
     }
   ],
   "heading": "The person you're applying to be a deputy for",
   "lede": "The person who can't make decisions at the time they need to be made (they 'lack mental capacity').",
-  "url": "person-name"
+  "url": "name"
 }
