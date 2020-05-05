@@ -6,6 +6,7 @@
   "emailInputNameUser": "email-address",
   "emailSubjectTeam": "Trial P&A Application",
   "emailSubjectUser": "",
+  "emailTemplateUser": "We've sent your application to the Court of Protection.\r\n\r\nThey will contact you by email once they've received your application.\r\n\r\nThere may be a delay in processing your application because of the coronavirus outbreak.",
   "name": "Apply to become a property and financial affairs deputy",
   "pdfHeading": "Apply to become a property and financial affairs deputy",
   "phase": "beta",
