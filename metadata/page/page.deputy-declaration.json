@@ -6,8 +6,8 @@
       "_id": "page.deputy-declaration--upload.auto_name__1",
       "_type": "upload",
       "label": "Upload your completed deputy’s declaration (COP4)",
-      "maxFiles": 0,
-      "minFiles": 1,
+      "maxFiles": 1,
+      "minFiles": 0,
       "name": "upload-cop4",
       "repeatable": false,
       "repeatableAdd": "Add another document",
@@ -16,6 +16,8 @@
       "repeatableMaximum": 10
     }
   ],
-  "steps": [],
+  "steps": [
+    "page.upload-cop4-check"
+  ],
   "url": "upload-cop4"
 }
