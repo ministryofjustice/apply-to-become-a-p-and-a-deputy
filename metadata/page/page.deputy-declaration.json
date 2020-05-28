@@ -1,0 +1,21 @@
+{
+  "_id": "page.deputy-declaration",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.deputy-declaration--upload.auto_name__1",
+      "_type": "upload",
+      "label": "Upload your completed deputy’s declaration (COP4)",
+      "maxFiles": 0,
+      "minFiles": 1,
+      "name": "auto_name__1",
+      "repeatable": false,
+      "repeatableAdd": "Add another document",
+      "repeatableDelete": "Remove a document",
+      "repeatableHeading": "Upload your completed deputy's declaration (COP4)",
+      "repeatableMaximum": 10
+    }
+  ],
+  "steps": [],
+  "url": "upload-cop4"
+}
