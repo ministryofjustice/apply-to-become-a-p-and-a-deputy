@@ -12,7 +12,8 @@
       },
       "hint": "",
       "label": "Upload your completed deputy’s declaration (COP4)",
-      "name": "upload-cop4"
+      "name": "upload-cop4",
+      "repeatable": false
     }
   ],
   "show": {
