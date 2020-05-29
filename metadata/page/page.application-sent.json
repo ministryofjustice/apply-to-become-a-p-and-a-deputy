@@ -1,7 +1,7 @@
 {
   "_id": "page.application-sent",
   "_type": "page.confirmation",
-  "body": "We have sent you a confirmation email.\r\n\r\n### What happens next\r\n\r\nWe've sent your application to the Court of Protection.\r\n\r\nThey will contact you by email once they've checked it.\r\n\r\nThere may be a delay in processing your application because of the coronavirus outbreak.\r\n\r\n[What did you think of this form ?](https://www.surveymonkey.co.uk/r/JC2DWGH)",
+  "body": "We have sent you a confirmation email.\r\n\r\n### What happens next\r\n\r\nWe've sent your application to the Court of Protection.\r\n\r\nThey will contact you by email once they've checked it.\r\n\r\nThere may be a delay in processing your application because of the coronavirus outbreak.\r\n\r\n[What did you think of this form?](https://www.surveymonkey.co.uk/r/JC2DWGH)",
   "heading": "Application sent",
   "url": "application-sent"
 }
