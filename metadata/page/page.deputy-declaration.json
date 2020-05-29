@@ -16,6 +16,11 @@
       "repeatableMaximum": 10
     }
   ],
+  "show": {
+    "identifier": "has-declaration",
+    "operator": "is",
+    "value": "yes"
+  },
   "steps": [
     "page.upload-cop4-check"
   ],
