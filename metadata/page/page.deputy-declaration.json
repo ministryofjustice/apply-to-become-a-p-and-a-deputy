@@ -5,6 +5,7 @@
     {
       "_id": "page.deputy-declaration--upload.auto_name__1",
       "_type": "upload",
+      "hint": "You can upload more than one COP4",
       "label": "Upload your completed deputy’s declaration (COP4)",
       "maxFiles": 10,
       "minFiles": 1,

@@ -1,6 +1,7 @@
 {
   "_id": "uploadSummary.radios.legend",
   "_type": "string",
-  "description": "Legend for the radios to confirm or decline another an upload",
+  "description": "Upload another COP4",
+  "multiline": false,
   "value": "Do you want to upload {count, select, 1{another COP4} other{more documents}}?"
 }

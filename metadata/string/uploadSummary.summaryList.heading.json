@@ -1,6 +1,7 @@
 {
   "_id": "uploadSummary.summaryList.heading",
   "_type": "string",
-  "description": "Heading for the summary list of uploads",
-  "value": "Documents"
+  "description": "Upload another COP4",
+  "multiline": false,
+  "value": "COP4 forms uploaded"
 }

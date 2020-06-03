@@ -1,6 +1,6 @@
 {
   "_id": "page.upload-cop4-summary",
   "_type": "page.uploadSummary",
-  "heading": "COP4 forms uploaded",
+  "heading": "Do you want to upload another COP4?",
   "url": "/cop4-upload-summary"
 }
