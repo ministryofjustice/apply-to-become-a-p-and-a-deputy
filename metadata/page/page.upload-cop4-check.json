@@ -1,5 +1,5 @@
 {
   "_id": "page.upload-cop4-check",
   "_type": "page.uploadCheck",
-  "url": "/check-cop4-upload"
+  "url": "upload-cop4-check"
 }
