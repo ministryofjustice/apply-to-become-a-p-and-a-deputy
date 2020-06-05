@@ -19,9 +19,14 @@
           "value": "no"
         }
       ],
-      "legend": "Do you want to upload another deputy's declaration (COP4)?",
-      "name": "has-second-cop4-declaration"
+      "legend": "Do you have another completed deputy's declaration (COP4) to upload?",
+      "name": "has-another-declaration"
     }
   ],
-  "url": "/upload-another-cop4"
+  "show": {
+    "identifier": "has-cop4-declaration",
+    "operator": "is",
+    "value": "yes"
+  },
+  "url": "/another-deputy-declaration"
 }

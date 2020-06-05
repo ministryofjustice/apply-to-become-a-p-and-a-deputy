@@ -1,0 +1,16 @@
+{
+  "_id": "page.cop4-another-upload",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.cop4-another-upload--upload.auto_name__1",
+      "_type": "upload",
+      "label": "Upload another completed deputy's declaration (COP4)",
+      "name": "auto_name__1"
+    }
+  ],
+  "steps": [
+    "page.cop4-another-upload-check"
+  ],
+  "url": "cop4-second-upload"
+}
