@@ -6,9 +6,23 @@
       "_id": "page.cop4-another-upload--upload.auto_name__1",
       "_type": "upload",
       "label": "Upload another completed deputy's declaration (COP4)",
-      "name": "auto_name__1"
+      "name": "upload-additional-declaration"
     }
   ],
+  "show": {
+    "all": [
+      {
+        "identifier": "has-another-declaration",
+        "operator": "is",
+        "value": "yes"
+      },
+      {
+        "identifier": "has-another-declaration",
+        "operator": "is",
+        "value": "yes"
+      }
+    ]
+  },
   "steps": [
     "page.cop4-another-upload-check"
   ],
