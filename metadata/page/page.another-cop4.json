@@ -1,0 +1,27 @@
+{
+  "_id": "page.another-cop4",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.another-cop4--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.another-cop4--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "yes"
+        },
+        {
+          "_id": "page.another-cop4--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "No",
+          "value": "no"
+        }
+      ],
+      "legend": "Do you want to upload another deputy's declaration (COP4)?",
+      "name": "has-second-cop4-declaration"
+    }
+  ],
+  "url": "/upload-another-cop4"
+}

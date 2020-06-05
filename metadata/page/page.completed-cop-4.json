@@ -20,7 +20,7 @@
         }
       ],
       "legend": "Do you have a completed deputy’s declaration (COP4) to upload?",
-      "name": "has-declaration"
+      "name": "has-cop4-declaration"
     }
   ],
   "url": "deputy-declaration"
