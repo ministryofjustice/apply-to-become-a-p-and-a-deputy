@@ -23,5 +23,5 @@
   "steps": [
     "page.upload-cop9-check"
   ],
-  "url": "upload-cop9"
+  "url": "upload-order"
 }

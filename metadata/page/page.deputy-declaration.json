@@ -25,5 +25,5 @@
   "steps": [
     "page.upload-cop4-check"
   ],
-  "url": "upload-cop4"
+  "url": "upload-declaration"
 }
