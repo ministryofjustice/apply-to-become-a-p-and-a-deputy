@@ -24,7 +24,7 @@
     }
   ],
   "show": {
-    "identifier": "has-cop4-declaration",
+    "identifier": "has-deputy-declaration",
     "operator": "is",
     "value": "yes"
   },

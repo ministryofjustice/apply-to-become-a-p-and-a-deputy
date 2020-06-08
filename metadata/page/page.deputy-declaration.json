@@ -9,7 +9,7 @@
       "label": "Upload your completed deputy’s declaration (COP4)",
       "maxFiles": 1,
       "minFiles": 1,
-      "name": "upload-cop4",
+      "name": "upload-deputy-declaration",
       "repeatable": false,
       "repeatableAdd": "Add another document",
       "repeatableDelete": "Remove a document",
@@ -18,7 +18,7 @@
     }
   ],
   "show": {
-    "identifier": "has-cop4-declaration",
+    "identifier": "has-deputy-declaration",
     "operator": "is",
     "value": "yes"
   },
