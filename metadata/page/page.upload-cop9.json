@@ -12,13 +12,13 @@
       },
       "hint": "",
       "label": "Upload your completed application notice for an urgent interim order (COP9)",
-      "name": "upload-cop9"
+      "name": "upload-urgent-interim-order"
     }
   ],
   "show": {
     "identifier": "urgent-interim-order",
     "operator": "is",
-    "value": "urgent_yes"
+    "value": "yes"
   },
   "steps": [
     "page.upload-cop9-check"
