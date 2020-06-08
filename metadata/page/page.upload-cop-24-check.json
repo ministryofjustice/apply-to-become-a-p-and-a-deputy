@@ -2,5 +2,5 @@
   "_id": "page.upload-cop-24-check",
   "_type": "page.uploadCheck",
   "heading": "Check your completed witness statement (COP24) upload",
-  "url": "/check-statement"
+  "url": "/check-witness-statement"
 }

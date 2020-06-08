@@ -23,5 +23,5 @@
   "steps": [
     "page.upload-cop-24-check"
   ],
-  "url": "upload-statement"
+  "url": "upload-witness-statement"
 }
