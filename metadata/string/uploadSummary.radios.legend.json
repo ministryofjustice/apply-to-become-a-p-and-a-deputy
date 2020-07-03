@@ -3,5 +3,5 @@
   "_type": "string",
   "description": "Upload another COP4",
   "multiline": false,
-  "value": "Do you want to upload {count, select, 1{another COP4} other{more documents}}?"
+  "value": "Do you want to upload {count, select, 1{another deputy's declaration (COP4)} other{more documents}}?"
 }

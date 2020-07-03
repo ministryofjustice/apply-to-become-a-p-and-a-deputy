@@ -7,7 +7,7 @@
       "_type": "upload",
       "hint": "",
       "label": "Upload your completed deputy’s declaration (COP4)",
-      "maxFiles": 1,
+      "maxFiles": 4,
       "minFiles": 1,
       "name": "upload-deputy-declaration",
       "repeatable": false,
@@ -23,7 +23,8 @@
     "value": "yes"
   },
   "steps": [
-    "page.upload-cop4-check"
+    "page.upload-cop4-check",
+    "page.upload-deputy-declaration-summary"
   ],
   "url": "upload-deputy-declaration"
 }
