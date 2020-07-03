@@ -3,5 +3,5 @@
   "_type": "string",
   "description": "Upload another COP4",
   "multiline": false,
-  "value": "Deputy's declaration (COP4) forms uploaded"
+  "value": "{fake_variable}"
 }
