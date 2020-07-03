@@ -2,5 +2,5 @@
   "_id": "page.upload-deputy-declaration-summary",
   "_type": "page.uploadSummary",
   "heading": "Summary of your deputy's declaration (COP4) uploads",
-  "url": "upload-deputy-declaration-summary"
+  "url": "/upload-deputy-declaration-summary"
 }
