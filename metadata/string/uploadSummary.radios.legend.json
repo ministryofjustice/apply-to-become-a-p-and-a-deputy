@@ -1,7 +1,7 @@
 {
   "_id": "uploadSummary.radios.legend",
   "_type": "string",
-  "description": "Upload another COP4",
+  "description": "Upload another form",
   "multiline": false,
-  "value": "Do you want to upload {count, select, 1{another deputy's declaration (COP4)} other{more documents}}?"
+  "value": "Do you want to upload another form?"
 }
