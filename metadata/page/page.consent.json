@@ -1,0 +1,19 @@
+{
+  "_id": "page.consent",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.consent--upload.auto_name__1",
+      "_type": "upload",
+      "label": "Upload your completed consent form (COP5)",
+      "maxFiles": 10,
+      "minFiles": 3,
+      "name": "auto_name__1"
+    }
+  ],
+  "steps": [
+    "page.consent-check",
+    "page.consent-summary"
+  ],
+  "url": "consent"
+}
