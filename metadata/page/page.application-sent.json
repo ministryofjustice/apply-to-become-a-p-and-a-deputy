@@ -1,7 +1,7 @@
 {
   "_id": "page.application-sent",
   "_type": "page.confirmation",
-  "body": "We have sent you a confirmation email.\r\n\r\n### What happens next\r\n\r\nWe've sent your application to the Court of Protection.\r\n\r\nThey will contact you by email once they've checked it.\r\n\r\nThere may be a delay in processing your application because of the coronavirus outbreak.\r\n\r\n### Tell us about your experience of serving and notifying people\r\n\r\nWe’d like to know about your experience of serving and notifying people when applying to the Court of Protection for a property and affairs deputyship.\r\n\r\nIt should take no longer than 10 minutes to [complete this survey](https://www.surveymonkey.co.uk/r/RBHP6YK). We’ll use your feedback to help improve the process.",
+  "body": "We have sent you a confirmation email.\r\n\r\n### What happens next\r\n\r\nWe've sent your application to the Court of Protection.\r\n\r\nThey will contact you by email once they've checked it.\r\n\r\nThere may be a delay in processing your application because of the coronavirus outbreak.",
   "heading": "Application sent",
   "url": "application-sent"
 }
