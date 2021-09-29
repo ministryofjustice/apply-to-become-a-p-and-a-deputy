@@ -1,7 +1,7 @@
 {
   "_id": "page.check-answers",
   "_type": "page.summary",
-  "sendBody": "You will be charged an application fee of:\r\n\r\n* £365 for applications received up to 11:59pm on 29 September 2021\r\n* £371 for applications received after that\r\n\r\nBy submitting this application you confirm that, to the best of your knowledge, the details you are providing are correct.",
+  "sendBody": "You will be charged an application fee of £371.\r\n\r\nBy submitting this application you confirm that, to the best of your knowledge, the details you are providing are correct.",
   "sendHeading": "Send your application",
   "show": true,
   "url": "check-answers"
