@@ -4,21 +4,6 @@
   "body": "Use this form to upload and send a completed application to become a property and financial affairs deputy to the Court of Protection.\r\n\r\nThe application fee is £371.\r\n\r\nYou can only use this form if you have:\r\n\r\n* completed all the relevant application forms\r\n* a Payment By Account (PBA) number to pay for the application\r\n\r\nIf you haven't completed the application forms, read the guidance on [applying to be a deputy](https://www.gov.uk/become-deputy/apply-deputy).\r\n\r\nIf you don't have a PBA number, you'll need to [apply for a HMCTS Fee Account](https://www.gov.uk/government/publications/form-fee-account-application-form-fee-account-customer-application-form).\r\n\r\nYou cannot use this form if you're unable to pay the application fee. You might be able to get money off by [applying for help with paying it](https://www.gov.uk/get-help-with-court-fees). \r\n\r\n## Before you upload your completed forms\r\n\r\nTo help the court process your application, name your files using the:\r\n\r\n* date you're sending your completed forms (YYYY-MM-DD format)    \r\n* person's last name\r\n* first letter of the person's first name\r\n* the form number, like COP1\r\n\r\nFor example, 2020-03-31 - SMITH J - COP1.pdf",
   "heading": "Apply to become a property and financial affairs deputy",
   "lede": "",
-  "steps": [
-    "page.person-details--2",
-    "page.email-address",
-    "page.pba-number",
-    "page.cop1",
-    "page.upload-cop1a",
-    "page.upload-cop3",
-    "page.completed-cop-4",
-    "page.deputy-declaration",
-    "page.urgent-interim-order",
-    "page.upload-cop9",
-    "page.witness-statement-form",
-    "page.upload-cop-24",
-    "page.check-answers",
-    "page.application-sent"
-  ],
+  "steps": [],
   "url": "/"
 }
